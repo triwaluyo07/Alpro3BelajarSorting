@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1521175015 source:d:\alpro3\sorting\fungsi.c
+	"header.h"
+
+1521175015 d:\alpro3\sorting\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1521175015 source:d:\alpro3\sorting\main.c
+	"header.h"
+
